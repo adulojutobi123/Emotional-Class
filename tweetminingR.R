@@ -1,3 +1,4 @@
+#Require the necessary packages
 library(twitteR)
 library(purrr)
 library(dplyr)
